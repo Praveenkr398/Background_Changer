@@ -19,7 +19,8 @@ The **Background Changer** is an interactive React-based web application that en
 - **React Hooks** – State and effect management
 
 ## 📸 Screenshots
-![Background Changer](https://via.placeholder.com/800x400.png?text=Background+Changer+App)
+![Background Changer](https://github.com/user-attachments/assets/f209b886-58cc-4e6a-aac8-1208a8b354d9)
+
 
 ## 📂 Project Structure
 ```
