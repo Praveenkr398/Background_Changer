@@ -1,8 +1,64 @@
-# React + Vite
+# Background Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Live Demo:** [Background Changer](https://ibgchanger.netlify.app/)  
+💻 **Source Code:** [GitHub Repository](https://github.com/Praveenkr398/Background_Changer)
 
-Currently, two official plugins are available:
+## 📌 Project Overview
+The **Background Changer** is an interactive React-based web application that enables users to change the background color of the app with a single click. This project demonstrates the power of **React state management** and **event handling** to create a seamless UI experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
+- ✅ Multiple color buttons with predefined values
+- ✅ Click on any button to instantly change the background color
+- ✅ Smooth and instant UI updates using **React state**
+- ✅ Fully responsive and lightweight design
+- ✅ Built with **React Hooks** and **Tailwind CSS**
+
+## 🛠️ Tech Stack
+- **React.js** – Component-based UI development
+- **Tailwind CSS** – Styling for a responsive and modern look
+- **React Hooks** – State and effect management
+
+## 📸 Screenshots
+![Background Changer](https://via.placeholder.com/800x400.png?text=Background+Changer+App)
+
+## 📂 Project Structure
+```
+Background_Changer/
+│── public/
+│── src/
+│   ├── components/
+│   │   ├── Button.js
+│   │   ├── Header.js
+│   ├── App.js
+│   ├── index.js
+│── package.json
+│── README.md
+```
+
+## 🚀 How to Run the Project
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Praveenkr398/Background_Changer.git
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd Background_Changer
+   ```
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+4. **Run the development server:**
+   ```bash
+   npm start
+   ```
+5. Open `http://localhost:3000` in your browser.
+
+## 📬 Contact
+If you have any questions or suggestions, feel free to reach out:
+📧 **Email:** prajatech355@gmail.com  
+🔗 **GitHub:** [Praveenkr398](https://github.com/Praveenkr398)  
+🔗 **LinkedIn:** [linkedin.com/in/Praveenkr398](https://www.linkedin.com/in/Praveenkr398)
+
+---
+Made with ❤️ by **Praveen Kumar Pandit**
